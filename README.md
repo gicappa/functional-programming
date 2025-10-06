@@ -2,7 +2,7 @@ Introduzione alla programmazione funzionale
 
 [PDF](./fp.pdf)
 
-# Perchè le monadi sono un fondamentale strumento pratico
+# Perché le monadi sono un fondamentale strumento pratico
 
 Le monadi sono fondamentali perchè permettono di comporre qualsiasi tipo di programma.
 
